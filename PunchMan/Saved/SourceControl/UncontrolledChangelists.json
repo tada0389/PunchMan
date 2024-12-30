@@ -6,15 +6,31 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"Q:/Unreal/PunchMan/PunchMan/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Model/Rabbit_Skeleton.uasset",
 				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Meshes/Rabbit_PhysicsAsset.uasset",
 				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Meshes/Rabbit_Skeleton.uasset",
 				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Meshes/Rabbit.uasset",
-				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/Rabbit.uasset",
 				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/BP_Rabbit.uasset",
 				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Animations/BS_Rabbit.uasset",
-				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/ASB_Rabbit.uasset",
-				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/ABP_Rabbit.uasset"
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/ABP_Rabbit.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/RunAnim/Beta_HighLimbsGeoSG3.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Test/Beta_HighLimbsGeoSG3.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/RunAnim/Beta_Joints_MAT1.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Test/Beta_Joints_MAT1.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/RunAnim/Fast_Run.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/RunAnim/Fast_Run_Anim.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/RunAnim/Fast_Run_PhysicsAsset.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/RunAnim/Fast_Run_Skeleton.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Test/Samba_Dancing.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Test/Samba_Dancing_Anim.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Test/Samba_Dancing_PhysicsAsset.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Test/Samba_Dancing_Skeleton.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Rigs/IK_Rabbit.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Rigs/IKR_Rabbit.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/Model/Rabbit_Skeleton.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/Rabbit.uasset",
+				"Q:/Unreal/PunchMan/PunchMan/Content/Characters/Rabbit/BluePrints/ASB_Rabbit.uasset"
 			]
 		}
 	]
